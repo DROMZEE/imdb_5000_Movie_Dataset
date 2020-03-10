@@ -4,6 +4,7 @@ Projet d'étude en machine learning du dataset IMDB
 
 * [le notebook](imdb_5000_Movie_Dataset.ipynb)
 * [scrapping des données](scrapping.ipynb)
+* [le rapport d'analyse de pandas_profiling](report/report.html)
 
 ## Environnement
 
