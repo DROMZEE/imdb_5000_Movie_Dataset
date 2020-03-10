@@ -2,10 +2,8 @@
 
 Projet d'étude en machine learning du dataset IMDB
 
-## Avec python
-
-    * [le notebook](imdb_5000_Movie_Dataset.ipynb)
-    * [scrapping des données](scrapping.ipynb)
+* [le notebook](imdb_5000_Movie_Dataset.ipynb)
+* [scrapping des données](scrapping.ipynb)
 
 ## Environnement
 
@@ -13,6 +11,7 @@ Projet d'étude en machine learning du dataset IMDB
 * numpy
 * matplotlib
 * pandas
+* [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
 * seaborn
 
 ### Auteur
