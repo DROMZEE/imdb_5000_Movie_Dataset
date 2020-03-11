@@ -2,9 +2,16 @@
 
 Projet d'étude en machine learning du dataset IMDB
 
-* [le notebook](imdb_5000_Movie_Dataset.ipynb)
-* [scrapping des données](scrapping.ipynb)
-* [le rapport d'analyse de pandas_profiling](report/report.html)
+* [Import des données](data.ipynb)
+    * [scrapping des données](scrapping.ipynb)
+    * [le rapport d'analyse de pandas_profiling](report/report.html)
+* [Nettoyage des données](cleaning.ipynb)
+    * rapport après nettoyage
+* [Analyse exploratoire](imdb_5000_Movie_Dataset.ipynb)
+* Pré-traitement
+* régressions
+* [Analyse en Composantes Principales](pca.ipynb)
+
 
 ## Environnement
 
@@ -15,10 +22,15 @@ Projet d'étude en machine learning du dataset IMDB
 * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
 * seaborn
 
-### Auteur
+## Auteur
 
 * Cédric Dromzée
     * https://github.com/DROMZEE/
     * https://www.linkedin.com/in/dromzee/?locale=fr_FR
     * https://dromzee.fr
     * https://stackoverflow.com/users/2606247/c%c3%a9dric-dromz%c3%a9e
+    
+    
+## Divers
+
+* Le [sujet](sujet/Projet P6 - révisions.ipynb)
