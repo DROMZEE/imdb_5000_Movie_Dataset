@@ -34,4 +34,4 @@ Projet d'étude en machine learning du dataset IMDB
     
 ## Divers
 
-* Le [sujet](sujet/Projet P6 - révisions.ipynb)
+* Le [sujet](sujet/Projet_P6-révisions.ipynb)
