@@ -2,13 +2,14 @@
 
 Projet d'étude en machine learning du dataset IMDB
 
+* [Import des libraries](env.ipynb)
 * [Import des données](data.ipynb)
     * [scrapping des données](scrapping.ipynb)
     * [le rapport d'analyse de pandas_profiling](report/report.html)
 * [Nettoyage des données](cleaning.ipynb)
     * rapport après nettoyage
 * [Analyse exploratoire](imdb_5000_Movie_Dataset.ipynb)
-* Pré-traitement
+* [Pré-traitement](preprocessing.ipynb)
 * régressions
 * [Analyse en Composantes Principales](pca.ipynb)
 
